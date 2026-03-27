@@ -17,8 +17,10 @@ Predict calories burned based on workout duration, intensity, and physical attri
 
  ## Model-2
 ![alt text](Charts/Model-2.png)
+
 ## Workout Time Vs Calories Burned
-![alt text](Charts/image.png)
+![alt text](Charts/Workout_Vs_Calories_burn.png)
+
 
 # 🔍 Insights
 
